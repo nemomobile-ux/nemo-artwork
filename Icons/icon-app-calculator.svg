@@ -15,8 +15,8 @@
    id="svg3839"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="icon-l-calculator.svg"
-   inkscape:export-filename="C:\Users\Stephan\Desktop\Photoshop Zeugs\nemoux-master\icons\icon-l-calculator.png"
+   sodipodi:docname="icon-app-calculator.svg"
+   inkscape:export-filename="C:\Users\Stephan\Documents\GitHub\nemo-artwork\Icons\icon-app-calculator.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -32,32 +32,6 @@
          offset="1"
          style="stop-color:#02008c;stop-opacity:1;" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter5464"
-       x="-0.060479119"
-       width="1.1209582"
-       y="-0.1374591"
-       height="1.2749182">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.68484588"
-         id="feGaussianBlur5466" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter5552"
-       x="-0.083100244"
-       width="1.1662005"
-       y="-0.2158425"
-       height="1.431685">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.912717"
-         id="feGaussianBlur5554" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient5538">
@@ -92,19 +66,6 @@
        fx="164.48473"
        fy="212.597"
        r="13.732007" />
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter5661"
-       x="-0.095202751"
-       width="1.1904055"
-       y="-0.16226472"
-       height="1.3245294">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.3701069"
-         id="feGaussianBlur5663" />
-    </filter>
     <linearGradient
        id="linearGradient3837">
       <stop
@@ -311,9 +272,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="-31.77483"
-     inkscape:cy="85.322917"
+     inkscape:zoom="8"
+     inkscape:cx="29.443158"
+     inkscape:cy="50.450302"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -347,33 +308,26 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-952.36217)">
-    <g
-       id="g121141"
-       transform="matrix(2.6698154,0,0,2.6698154,-266.73118,16.296329)"
-       inkscape:export-filename="/home/qwazix/nemoux/iconset.png"
-       inkscape:export-xdpi="300.10651"
-       inkscape:export-ydpi="300.10651">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#radialGradient121150);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path4251-3"
-         sodipodi:cx="78.078812"
-         sodipodi:cy="78.223206"
-         sodipodi:rx="14.859289"
-         sodipodi:ry="14.859289"
-         d="m 92.938101,78.223206 c 0,8.206558 -6.652731,14.859289 -14.859289,14.859289 -8.206559,0 -14.85929,-6.652731 -14.85929,-14.859289 0,-8.206559 6.652731,-14.85929 14.85929,-14.85929 8.206558,0 14.859289,6.652731 14.859289,14.85929 z"
-         transform="matrix(1.008279,0,0,1.008279,39.908884,290.46777)" />
-      <text
-         xml:space="preserve"
-         style="font-size:33.98513031px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans Ultra-Bold"
-         x="109.03431"
-         y="381.36945"
-         id="text4555"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan4557"
-           x="109.03431"
-           y="381.36945">÷</tspan></text>
-    </g>
+    <path
+       transform="matrix(2.6919188,0,0,2.6919188,-160.18183,791.79165)"
+       d="m 92.938101,78.223206 a 14.859289,14.859289 0 1 1 -29.718579,0 14.859289,14.859289 0 1 1 29.718579,0 z"
+       sodipodi:ry="14.859289"
+       sodipodi:rx="14.859289"
+       sodipodi:cy="78.223206"
+       sodipodi:cx="78.078812"
+       id="path4251-3"
+       style="color:#000000;fill:url(#radialGradient121150);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4555"
+       y="1034.3495"
+       x="24.104475"
+       style="font-size:90.73402405px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans Ultra-Bold"
+       xml:space="preserve"><tspan
+         y="1034.3495"
+         x="24.104475"
+         id="tspan4557"
+         sodipodi:role="line">÷</tspan></text>
   </g>
 </svg>
