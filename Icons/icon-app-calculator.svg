@@ -299,7 +299,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -318,16 +318,13 @@
        id="path4251-3"
        style="color:#000000;fill:url(#radialGradient121150);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="arc" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text4555"
-       y="1034.3495"
-       x="24.104475"
+    <g
        style="font-size:90.73402405px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans Ultra-Bold"
-       xml:space="preserve"><tspan
-         y="1034.3495"
-         x="24.104475"
-         id="tspan4557"
-         sodipodi:role="line">÷</tspan></text>
+       id="text4555">
+      <path
+         d="m 28.003203,1007.2356 0,-9.70251 43.993596,0 0,9.70251 z m 15.772125,10.5886 c -2e-5,-2.2447 0.546392,-3.9209 1.639238,-5.0285 1.092802,-1.1075 2.613895,-1.6613 4.563283,-1.6614 1.949336,10e-5 3.463045,0.576 4.541132,1.7279 1.078025,1.1519 1.617053,2.8059 1.617086,4.962 -3.3e-5,2.0675 -0.546445,3.7068 -1.639238,4.9177 -1.092855,1.211 -2.59918,1.8165 -4.51898,1.8165 -1.919852,0 -3.433561,-0.576 -4.541132,-1.7279 -1.107613,-1.1519 -1.661409,-2.8206 -1.661389,-5.0063 z m 0,-30.924 c -2e-5,-2.21514 0.546392,-3.89129 1.639238,-5.02847 1.092802,-1.13708 2.613895,-1.70564 4.563283,-1.7057 1.978872,6e-5 3.499965,0.59816 4.563284,1.79431 1.063257,1.19625 1.594901,2.84287 1.594934,4.93986 -3.3e-5,2.06755 -0.546445,3.6994 -1.639238,4.89556 -1.092855,1.19624 -2.59918,1.79434 -4.51898,1.7943 -1.919852,4e-5 -3.433561,-0.5759 -4.541132,-1.72784 -1.107613,-1.15186 -1.661409,-2.80586 -1.661389,-4.96202 z"
+         style="marker:none"
+         id="path3029" />
+    </g>
   </g>
 </svg>

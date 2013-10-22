@@ -15,8 +15,8 @@
    id="svg3839"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="icon-l-terminal.svg"
-   inkscape:export-filename="C:\Users\Stephan\Desktop\Photoshop Zeugs\nemoux-master\icons\icon-l-terminal.png"
+   sodipodi:docname="icon-app-terminal.svg"
+   inkscape:export-filename="C:\Users\Stephan\Documents\GitHub\nemo-artwork\Icons\icon-app-terminal.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -32,32 +32,6 @@
          offset="1"
          style="stop-color:#02008c;stop-opacity:1;" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter5464"
-       x="-0.060479119"
-       width="1.1209582"
-       y="-0.1374591"
-       height="1.2749182">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.68484588"
-         id="feGaussianBlur5466" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter5552"
-       x="-0.083100244"
-       width="1.1662005"
-       y="-0.2158425"
-       height="1.431685">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.912717"
-         id="feGaussianBlur5554" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient5538">
@@ -92,19 +66,6 @@
        fx="164.48473"
        fy="212.597"
        r="13.732007" />
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter5661"
-       x="-0.095202751"
-       width="1.1904055"
-       y="-0.16226472"
-       height="1.3245294">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.3701069"
-         id="feGaussianBlur5663" />
-    </filter>
     <linearGradient
        id="linearGradient3837">
       <stop
@@ -239,7 +200,7 @@
      transform="translate(0,-952.36217)">
     <path
        transform="matrix(2.6049835,0,0,2.6049835,-153.39402,798.59201)"
-       d="m 92.938101,78.223206 a 14.859289,14.859289 0 1 1 -29.718579,0 14.859289,14.859289 0 1 1 29.718579,0 z"
+       d="m 92.938101,78.223206 c 0,8.206558 -6.652731,14.859289 -14.859289,14.859289 -8.206559,0 -14.85929,-6.652731 -14.85929,-14.859289 0,-8.206559 6.652731,-14.85929 14.85929,-14.85929 8.206558,0 14.859289,6.652731 14.859289,14.85929 z"
        sodipodi:ry="14.859289"
        sodipodi:rx="14.859289"
        sodipodi:cy="78.223206"
@@ -247,16 +208,17 @@
        id="path121453"
        style="color:#000000;fill:url(#radialGradient6068);fill-opacity:1;fill-rule:nonzero;stroke:#00ff00;stroke-width:0.99178898;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="arc" />
-    <text
-       xml:space="preserve"
+    <g
        style="font-size:38.43373108px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00de1b;fill-opacity:1;stroke:none;font-family:ocrb;-inkscape-font-specification:ocrb"
-       x="21.200415"
-       y="1013.0697"
-       id="text121469"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan121471"
-         x="21.200415"
-         y="1013.0697">&gt;_</tspan></text>
+       id="text121469">
+      <path
+         d="m 24.240583,987.35964 17.734314,11.76657 0,1.23859 -17.565416,11.7853 0,-4.2412 12.292038,-8.14463 -12.460936,-8.18218 z"
+         style=""
+         id="path3015" />
+      <path
+         d="m 43.588813,1018.9999 0,-3.2466 24.621609,0 0,3.2466 z"
+         style=""
+         id="path3017" />
+    </g>
   </g>
 </svg>
