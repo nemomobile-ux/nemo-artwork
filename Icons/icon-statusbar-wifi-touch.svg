@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="39px" height="32px" viewBox="0 0 39 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-statusbar-wifi-touch</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="63.8671875%" id="radialGradient-1">
+            <stop stop-color="#0091E5" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="statusbar_icons" sketch:type="MSArtboardGroup" transform="translate(-129.000000, -157.000000)" fill="url(#radialGradient-1)">
+            <g id="wifi" sketch:type="MSLayerGroup" transform="translate(129.000000, 157.000000)">
+                <path d="M19.7011906,32.1598409 C19.7011906,32.1598409 19.7011906,32.1598399 0.28776036,12.5784815 C0.287760359,10.3801271 5.16977358,0.0202524537 19.7011906,0.0202547349 C34.2326077,0.0202570162 39.019346,10.3311352 39.019346,12.5784815 C19.7011906,32.1598399 19.7011906,32.1598409 19.7011906,32.1598409 Z" id="Path-1" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
