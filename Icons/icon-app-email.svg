@@ -10,12 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="100"
-   height="100"
+   width="96"
+   height="96"
+   viewBox="5 5 90 90"
    id="svg3839"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="icon-l-email.svg"
+   inkscape:version="0.92.1 unknown"
+   sodipodi:docname="icon-app-email.svg"
    inkscape:export-filename="C:\Users\Stephan\Desktop\Photoshop Zeugs\nemoux-master\icons\icon-l-email.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -24,16 +25,13 @@
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath121358">
-      <path
+      <circle
          transform="matrix(1.0060524,0,0,1.0060524,85.692348,129.48937)"
-         d="m 92.938101,78.223206 a 14.859289,14.859289 0 1 1 -29.718579,0 14.859289,14.859289 0 1 1 29.718579,0 z"
-         sodipodi:ry="14.859289"
-         sodipodi:rx="14.859289"
-         sodipodi:cy="78.223206"
-         sodipodi:cx="78.078812"
          id="path121360"
-         style="color:#000000;fill:#ffffff;stroke:none;stroke-width:1.98357797;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;stroke:none;stroke-width:1.98357797;marker:none;enable-background:accumulate"
+         cx="78.078812"
+         cy="78.223206"
+         r="14.859289" />
     </clipPath>
     <linearGradient
        id="linearGradient5426">
@@ -54,29 +52,29 @@
          inkscape:connector-curvature="0"
          id="path5498"
          d="m 150.65532,216.59374 10.70041,-11.69419 5.53532,-0.26304 10.94109,11.95723 z"
-         style="fill:none;stroke:#010156;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:none;stroke:#010156;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </clipPath>
     <filter
-       color-interpolation-filters="sRGB"
        inkscape:collect="always"
        id="filter5464"
        x="-0.060479119"
        width="1.1209582"
        y="-0.1374591"
-       height="1.2749182">
+       height="1.2749182"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.68484588"
          id="feGaussianBlur5466" />
     </filter>
     <filter
-       color-interpolation-filters="sRGB"
        inkscape:collect="always"
        id="filter5552"
        x="-0.083100244"
        width="1.1662005"
        y="-0.2158425"
-       height="1.431685">
+       height="1.431685"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.912717"
@@ -141,7 +139,11 @@
        empspacing="5"
        visible="true"
        enabled="true"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1" />
   </sodipodi:namedview>
   <metadata
      id="metadata3844">
@@ -169,18 +171,15 @@
       <g
          id="g121348"
          clip-path="url(#clipPath121358)">
-        <path
+        <circle
            transform="matrix(1.008279,0,0,1.008279,85.518503,129.31521)"
-           d="m 92.938101,78.223206 c 0,8.206558 -6.652731,14.859289 -14.859289,14.859289 -8.206559,0 -14.85929,-6.652731 -14.85929,-14.859289 0,-8.206559 6.652731,-14.85929 14.85929,-14.85929 8.206558,0 14.859289,6.652731 14.859289,14.85929 z"
-           sodipodi:ry="14.859289"
-           sodipodi:rx="14.859289"
-           sodipodi:cy="78.223206"
-           sodipodi:cx="78.078812"
            id="path5400"
-           style="color:#000000;fill:url(#radialGradient5344);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           sodipodi:type="arc" />
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient5344);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           cx="78.078812"
+           cy="78.223206"
+           r="14.859289" />
         <path
-           style="fill:none;stroke:#010156;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5464)"
+           style="fill:none;stroke:#010156;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5464)"
            d="m 150.65532,216.59374 10.70041,-11.69419 m 5.53532,-0.26304 10.94109,11.95723"
            id="path5438"
            inkscape:connector-curvature="0"
@@ -191,10 +190,10 @@
            sodipodi:nodetypes="ccccccc"
            inkscape:connector-curvature="0"
            id="path5546"
-           d="m 151.35654,201.37655 13.0377,10.1487 13.32228,-10.1487 -3.36745,0 -10.38749,6.71456 -9.46925,-6.71456 z"
+           d="m 151.35654,201.37655 13.0377,10.1487 13.32228,-10.1487 h -3.36745 l -10.38749,6.71456 -9.46925,-6.71456 z"
            style="fill:#1c1f24;fill-opacity:1;stroke:none;filter:url(#filter5552)" />
         <path
-           style="fill:url(#radialGradient5346);fill-opacity:1;stroke:#0039e9;stroke-width:1.10403311;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           style="fill:url(#radialGradient5346);fill-opacity:1;stroke:#0039e9;stroke-width:1.10403311;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 151.06374,199.81334 13.17999,8.77325 13.17999,-8.77325"
            id="path5432"
            inkscape:connector-curvature="0"

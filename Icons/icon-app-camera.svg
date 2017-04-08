@@ -10,12 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="100"
-   height="100"
+   width="96"
+   height="96"
+   viewBox="5 5 90 90"
    id="svg3839"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="icon-l-camera.svg"
+   inkscape:version="0.92.1 unknown"
+   sodipodi:docname="icon-app-camera.svg"
    inkscape:export-filename="C:\Users\Stephan\Desktop\Photoshop Zeugs\nemoux-master\icons\icon-l-camera.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -56,9 +57,9 @@
          id="stop5866" />
     </linearGradient>
     <filter
-       color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter5817">
+       id="filter5817"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.20793844"
@@ -158,8 +159,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8"
-     inkscape:cx="56.358849"
-     inkscape:cy="45.09889"
+     inkscape:cx="137.48385"
+     inkscape:cy="40.09889"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -167,14 +168,19 @@
      inkscape:window-height="1148"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     borderlayer="true">
     <inkscape:grid
        type="xygrid"
        id="grid3847"
        empspacing="5"
        visible="true"
        enabled="true"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1" />
   </sodipodi:namedview>
   <metadata
      id="metadata3844">
@@ -193,29 +199,23 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-952.36217)">
-    <path
+    <circle
        transform="matrix(2.6919188,0,0,2.6919188,-160.18182,791.79165)"
-       d="m 92.938101,78.223206 a 14.859289,14.859289 0 1 1 -29.718579,0 14.859289,14.859289 0 1 1 29.718579,0 z"
-       sodipodi:ry="14.859289"
-       sodipodi:rx="14.859289"
-       sodipodi:cy="78.223206"
-       sodipodi:cx="78.078812"
        id="path5785"
-       style="color:#000000;fill:url(#radialGradient4360);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       sodipodi:type="arc" />
-    <path
-       sodipodi:type="arc"
-       style="color:#000000;fill:url(#radialGradient4362);fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:2.01655793;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient4360);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+       cx="78.078812"
+       cy="78.223206"
+       r="14.859289" />
+    <circle
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient4362);fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:2.01655793;marker:none;enable-background:accumulate"
        id="path5795"
-       sodipodi:cx="124.0693"
-       sodipodi:cy="251.45654"
-       sodipodi:rx="8.261363"
-       sodipodi:ry="8.261363"
-       d="m 132.33066,251.45654 a 8.261363,8.261363 0 1 1 -16.52273,0 8.261363,8.261363 0 1 1 16.52273,0 z"
-       transform="matrix(2.8048548,0,0,2.8048548,-297.99637,297.06308)" />
+       transform="matrix(2.8048548,0,0,2.8048548,-297.99637,297.06308)"
+       cx="124.0693"
+       cy="251.45654"
+       r="8.261363" />
     <path
        sodipodi:type="star"
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01655793;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter5817);enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01655793;marker:none;filter:url(#filter5817);enable-background:accumulate"
        id="path5803"
        sodipodi:sides="6"
        sodipodi:cx="128.46046"
@@ -229,15 +229,12 @@
        inkscape:randomized="0"
        d="m 131.52012,242.68235 -2.73014,-1.82988 -1.44943,2.94979 0.21966,-3.27931 -3.27931,0.21966 2.94979,-1.44943 -1.82988,-2.73014 2.73014,1.82988 1.44942,-2.94979 -0.21965,3.27931 3.27931,-0.21965 -2.94979,1.44942 z"
        transform="matrix(4.7022465,0,0,4.7022465,-529.28601,-149.16957)" />
-    <path
+    <circle
        transform="matrix(0.6914739,0,0,0.6914739,-11.13049,803.51854)"
-       d="m 132.33066,251.45654 a 8.261363,8.261363 0 1 1 -16.52273,0 8.261363,8.261363 0 1 1 16.52273,0 z"
-       sodipodi:ry="8.261363"
-       sodipodi:rx="8.261363"
-       sodipodi:cy="251.45654"
-       sodipodi:cx="124.0693"
        id="path5799"
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01655793;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter5168);enable-background:accumulate"
-       sodipodi:type="arc" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01655793;marker:none;filter:url(#filter5168);enable-background:accumulate"
+       cx="124.0693"
+       cy="251.45654"
+       r="8.261363" />
   </g>
 </svg>
